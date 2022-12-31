@@ -1,4 +1,4 @@
-# My Portfol
+# My Portfolio
 Welcome to my portfolio! This page showcases some of my recent projects and provides information about my skills and experience as a web developer.
 
 ## Features
